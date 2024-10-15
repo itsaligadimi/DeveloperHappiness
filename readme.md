@@ -1,6 +1,6 @@
 # Developer Happiness
 
-Developer Happiness is an open-source project where developers can rate and comment on different tools, languages, and frameworks they use. The website provides a simple and minimal UI to add, review, and discuss various tools. The project is open for contributions, and anyone can add new features or improve the existing functionality by submitting pull requests.
+Developer Happiness is an open-source project where developers can rate and comment on different tools, languages, and frameworks they use. Developer Happiness is not about determining how good or effective a tool is. Instead, it aims to capture how happy developers are with the tools they use. The focus is on developer satisfaction and how tools contribute to their overall experience and happiness in the development process. The website provides a simple and minimal UI to add, review, and discuss various tools. The project is open for contributions, and anyone can add new features or improve the existing functionality by submitting pull requests.
 
 Website: [developerhappiness.ir](http://developerhappiness.ir)
 
